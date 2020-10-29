@@ -1,5 +1,5 @@
 # uncomment to preview locally
-theme: "just-the-docs-dark"
+#theme: "just-the-docs"
 remote_theme: dendronhq/dendron-jekyll
 color_scheme: dark
 title: Dendron
