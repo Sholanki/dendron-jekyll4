@@ -2,11 +2,17 @@
 id: e8d6241e-1708-4bde-bd3d-93b440a1eaad
 title: Onboarding
 desc: ''
-updated: 1598579955124
+updated: 1603954577831
 created: 1598579955124
 stub: false
 ---
-
+a[href*=".tags."] {
+    color: #000;
+    background: #fff;
+    display: inline-block;
+    padding: 0 10px;
+    border-radius: 4px;
+}
 # Dendron Onboarding
 
 For new users, I do an initial [onboarding](https://calendly.com/thence/dendron) session to help folks get started.

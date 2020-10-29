@@ -5,6 +5,7 @@
         "body": "- [ ] ",
         "description": "render todo box"
     },
+    
     "tag": {
         "prefix": "#",
         "scope": "markdown,yaml",
