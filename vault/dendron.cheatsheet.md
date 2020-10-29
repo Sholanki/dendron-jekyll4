@@ -2,11 +2,11 @@
 id: f9540bb6-7a5a-46db-ae7c-e1a606f28c73
 title: 'Cheatsheet'
 desc: ''
-updated: 1603962388954
+updated: 1603962921078
 created: 1596374871110
 nav_order: 8.5
 ---
-@import "style.less"
+@import "f9540bb6-7a5a-46db-ae7c-e1a606f28c73-style.less"
 # Cheatsheet
 
 This is a cheatsheet for Dendron.
