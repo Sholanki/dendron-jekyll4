@@ -133,7 +133,7 @@ html { font-size: 15px !important; scroll-behavior: smooth; }
 
 @media (min-width: 31.25rem) { html { font-size: 16px !important; } }
 
-body { font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif; font-size: 0.40em; line-height: 1.4; color: #e6e1e8; background-color: #27262b; }
+body { font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif; font-size: 0.40em; line-height: 1.4; color: #e6e1e8; background-color: black; }
 
 ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { margin-top: 0; }
 
