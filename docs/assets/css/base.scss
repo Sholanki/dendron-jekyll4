@@ -19,9 +19,9 @@ html {
 
 body {
   font-family: $body-font-family;
-  font-size: 0.40em;
+  font-size: 1em;
   line-height: $body-line-height;
-  color: $body-text-color;
+  color: #FF0000;
   background-color: #27262b;
 }
 
@@ -59,7 +59,7 @@ p {
 }
 
 a {
-  color: red;
+  color: #FF0000;
   text-decoration: none;
 }
 
